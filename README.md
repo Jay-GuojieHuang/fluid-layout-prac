@@ -1,3 +1,3 @@
 # fluidlayout
 
---This is a fluid layout prac for mobile webapp
+--This is a fluid layout prac for mobile web app
