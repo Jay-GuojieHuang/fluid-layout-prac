@@ -1,4 +1,12 @@
-* {
+ul,
+li,
+div,
+p,
+a,
+span,
+i,
+input,
+img {
   /* 怪异盒子模型 */
   box-sizing: border-box;
 }
